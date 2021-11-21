@@ -1,0 +1,67 @@
+IPL Matches 2008-2020
+
+Context
+Now that this year's IPL is over, let's not curb our cricket love and start analyzing the whole of IPL with this latest and complete Indian Premier League dataset. It contains the match descriptions, results, winners, player of the matches, ball by ball dataset and much more. So, stop thinking and start analyzing .
+Content
+This dataset consists of two seperate CSV files : matches and deliveries. These files contain the information of each match summary and ball by ball details, respectively.
+Acknowledgements
+Data Source : Cricsheet
+Perform and build dashboards on the datasets.
+
+First dataset:ipl-complete-dataset-2008-2020
+
+
+Most wins in IPL
+Most Wins in an Eliminator
+Toss Decision
+Famous Venue
+
+Second Dataset:IPL Ball-by-Ball 2008-2020
+
+Batting Analysis
+Bowling Analysis
+
+
+Others:
+FANTASY TEAM BASED ON MATCHES OF 2020
+
+some sample questions could be :
+
+What was the count of matches played in each season?
+1.	How many runs were scored in each season?
+2.	What were the runs scored per match in different seasons? 
+3.	Who has umpired the most?
+4.	Which team has won the most tosses?
+5.	What does the team decide after winning the toss?
+6.	How toss decision varies across seasons?
+7.	Does winning the toss implies winning the game?
+8.	How many times chasing team has won the match?
+9.	Which all teams had won this tournament?
+10.	Which team has played the most number of matches?
+11.	Which team has won the most number of times?
+12.	Which team has the highest winning percentage?
+13.	Is there any lucky venue for a particular team?
+14.	Comparison between two teams
+15.	Particular Batsmen analysis
+16.	Innings wise comparison between teams
+17.	Which team has scored the most number of 200+ scores?
+18.	Which team has conceded 200+ scores the most?
+19.	What was the highest run scored by a team in a single match?
+20.	Which is the biggest win in terms of run margin?
+21.	Which batsmen have played the most number of balls?
+22.	Who are the leading run-scorers of all time?
+23.	Who has hit the most number of 4's?
+24.	Who has hit the most number of 6's?
+25.	Who has the highest strike rate?
+26.	Who is the leading wicket-taker?
+27.	Which stadium has hosted the most number of matches?
+28.	Who has won the most MOM awards?
+29.	What is the count of fours hit in each season?
+30.	What is the count of sixes hit in each season?
+31.	What is the count of runs scored from boundaries in each season?
+32.	What is the run contribution from boundaries in each season?
+33.	Which team has scored the most runs in the first 6 overs?
+34.	Which team has scored the most runs in the last 4 overs?
+35.	Which team has the best scoring run-rate in the first 6 overs?
+36.	Which team has the best scoring run-rate in the last 4 overs?
+
